@@ -3,4 +3,6 @@
 	printf("testtest");
 
 	printf("あ");
+
+	printf("test");
 }
